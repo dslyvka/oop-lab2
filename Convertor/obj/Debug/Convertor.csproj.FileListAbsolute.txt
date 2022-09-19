@@ -1,0 +1,8 @@
+D:\knute\oop\lab2\Convertor\bin\Debug\Convertor.exe.config
+D:\knute\oop\lab2\Convertor\bin\Debug\Convertor.exe
+D:\knute\oop\lab2\Convertor\bin\Debug\Convertor.pdb
+D:\knute\oop\lab2\Convertor\obj\Debug\Convertor.csproj.AssemblyReference.cache
+D:\knute\oop\lab2\Convertor\obj\Debug\Convertor.csproj.SuggestedBindingRedirects.cache
+D:\knute\oop\lab2\Convertor\obj\Debug\Convertor.csproj.CoreCompileInputs.cache
+D:\knute\oop\lab2\Convertor\obj\Debug\Convertor.exe
+D:\knute\oop\lab2\Convertor\obj\Debug\Convertor.pdb

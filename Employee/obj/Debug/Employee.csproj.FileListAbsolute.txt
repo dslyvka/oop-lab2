@@ -1,0 +1,8 @@
+D:\knute\oop\lab2\Employee\bin\Debug\Employee.exe.config
+D:\knute\oop\lab2\Employee\bin\Debug\Employee.exe
+D:\knute\oop\lab2\Employee\bin\Debug\Employee.pdb
+D:\knute\oop\lab2\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+D:\knute\oop\lab2\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+D:\knute\oop\lab2\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\knute\oop\lab2\Employee\obj\Debug\Employee.exe
+D:\knute\oop\lab2\Employee\obj\Debug\Employee.pdb
